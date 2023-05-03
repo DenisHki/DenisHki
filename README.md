@@ -12,4 +12,5 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="425"/> 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="denishki" /></p>
 
