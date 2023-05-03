@@ -42,10 +42,14 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" style="width:100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" float: left;
+  width: 33.33%;
+  padding: 5px >
   </div>
   <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" alt="denishki" style="width:100%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" alt="denishki" float: left;
+  width: 33.33%;
+  padding: 5px>
   </div>
  
 </div>
