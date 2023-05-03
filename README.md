@@ -12,8 +12,8 @@
 
 
 <p align="center">
-  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="50%">
+  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="40%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="50%">
+  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="55%">
 </p>
 
