@@ -17,17 +17,8 @@
   </tr>
  </table>
 
-<div class="row">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" float: left;
-  width: 33.33%;
-  padding: 5px >
-  </div>
-  <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" alt="denishki" float: left;
-  width: 33.33%;
-  padding: 5px>
-  </div>
- 
-</div>
+<p float="left">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="100" />
+  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="100" />
+</p>
 
