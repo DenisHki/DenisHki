@@ -18,6 +18,6 @@
  </table>
 <p align="center">
       <img width="360" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" align="left">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" align="left>
 </p>
 
