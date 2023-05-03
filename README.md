@@ -18,7 +18,7 @@
 </p>
 
 <div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
+     <div style="flex:1;padding-left:10px;">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="200"/>
      </div>
      <div style="flex:1;padding-left:10px;">
