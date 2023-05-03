@@ -17,4 +17,14 @@
   <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" height:30px>
 </p>
 
-
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image2.png" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="400"/>
+     </div>
+</div>
