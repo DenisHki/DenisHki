@@ -17,3 +17,5 @@
   <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="55%" height="55%">
 </p>
 
+![Elements](src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact"){: style="height:83px"}
+![Dandi](src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark"){: style="height:83px"}
