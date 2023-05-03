@@ -17,7 +17,5 @@
   <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" height:30px>
 </p>
 
-<img display: "inline-block" width: "49%" class=mobile-image src="https://files.readme.io/ee53dbc-demo.png" />
-<img display: "inline-block" width: "49%" class=mobile-image src="https://files.readme.io/81b457e-html.png" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="425"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="425"/> 
 
