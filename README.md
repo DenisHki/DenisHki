@@ -17,7 +17,7 @@
   </tr>
  </table>
 <p align="center">
-      <img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" align="left">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki">
+      <img width="100" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" align="left">
+      <img width="100" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki">
 </p>
 
