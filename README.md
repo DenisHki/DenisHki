@@ -12,9 +12,9 @@
 
 
 <p align="center">
-  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" height:60px>
+  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" height:30px>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" height:60px>
+  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" height:30px>
 </p>
 
 
