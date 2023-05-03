@@ -17,14 +17,10 @@
   </tr>
  </table>
 
-<p float="left">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="100" />
-  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="100" />
-</p>
 
 <p float="left">
   <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="40%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="60%">
+  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="57%">
 </p>
 
