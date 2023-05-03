@@ -17,15 +17,7 @@
   <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" height:30px>
 </p>
 
-<img class=mobile-image src="https://files.readme.io/ee53dbc-demo.png" />
-<img class=mobile-image src="https://files.readme.io/81b457e-html.png" />
+<img display: "inline-block" width: "49%" class=mobile-image src="https://files.readme.io/ee53dbc-demo.png" />
+<img display: "inline-block" width: "49%" class=mobile-image src="https://files.readme.io/81b457e-html.png" />
 
-<style>
-  .img {
-    display: inline-block;
-  }
-  img.mobile-image {
-    width: 49%;
-    display: inline-block;
-  }
-</style>
+
