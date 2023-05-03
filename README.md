@@ -16,5 +16,8 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" /></td>
   </tr>
  </table>
-
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki">
+</p>
 
