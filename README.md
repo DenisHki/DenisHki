@@ -12,10 +12,9 @@
 
 
 <p align="center">
-  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="40%" height="40%">
+  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" height:83px>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="55%" height="55%">
+  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" height:83px>
 </p>
 
-![Elements](https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact){: style="height:83px"}
-![Dandi](https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark){: style="height:83px"}
+
