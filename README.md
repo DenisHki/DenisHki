@@ -22,3 +22,9 @@
   <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="100" />
 </p>
 
+<p align="center">
+  <img alt="denishki" src="https://github-readme-stats.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="denishki" src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" width="45%">
+</p>
+
