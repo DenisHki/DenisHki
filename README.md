@@ -11,4 +11,10 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="425"/> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
+
+
 
