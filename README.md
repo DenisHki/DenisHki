@@ -1,3 +1,8 @@
+<style>
+  .languages-and-tools a {
+    text-decoration: none; /* Remove underline */
+  }
+</style>
 <h1 align="center">👋Hi there, I'm Denis Chuvakov</h1>
 <h3 align="center">Software developer student with a passion for the world of IT</h3>
 
