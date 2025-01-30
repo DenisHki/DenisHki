@@ -3,7 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denis-chuvakov-25bbab22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-chuvakov-25bbab22b" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-chuvakov-25bbab22b" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,10 +29,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </div>
 <br>
-<div style="flex: 1;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="425"/> 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denishki&theme=dark" alt="denishki" width="425"/>
 </div>
-
-
-
-
