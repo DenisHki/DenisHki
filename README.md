@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table border="0" style="border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
