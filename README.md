@@ -59,7 +59,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" width="345"/>
   <img src="https://streak-stats.demolab.com/?user=denishki&theme=dark" width="425"/>
 </p>
