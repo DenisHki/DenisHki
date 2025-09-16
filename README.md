@@ -33,7 +33,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/>
-  <img src="https://streak-stats.demolab.com/?user=denishki&theme=dark" alt="denishki" width="425"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denishki&show_icons=true&theme=dark" alt="GitHub Stats" width="425"/>
 </div>
 
 <h3 align="left">GitHub Stats:</h3>
