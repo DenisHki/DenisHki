@@ -10,7 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Use flexbox for the icons -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
@@ -36,8 +35,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denishki&show_icons=true&theme=dark" alt="GitHub Stats" width="425"/>
 </div>
-<h3 align="left">───────────────────────────────────────────────────────────────</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1">
+  <h3>-----------------------------------------------------------------------------</h3>
   <img
     height="170"
     align="center"
