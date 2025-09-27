@@ -35,7 +35,8 @@
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&hide_border=true&border_radius=10&locale=en&layout=compact"
     alt="denishki"
-    width="345"
+    height="170"
+    align="center"
   />
   <img
     src="https://streak-stats.demolab.com?user=denishki&theme=dark&hide_border=true&border_radius=10"
@@ -44,6 +45,7 @@
     align="center"
   />
 </div>
+
 
 
 
