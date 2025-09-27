@@ -28,6 +28,7 @@
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /></a>
 </div>
 
 <h3 align="left">GitHub Stats:</h3>
