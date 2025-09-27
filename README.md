@@ -34,23 +34,13 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&locale=en&layout=compact" alt="denishki" width="345"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denishki&show_icons=true&theme=dark" alt="GitHub Stats" width="425"/>
-</div>
-
-<div style="flex: 1">
-  <h3>-----------------------------------------------------------------------------</h3>
   <img
-    height="170"
-    align="center"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=denishki&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-    alt="Top Languages"
-  />
-  <a href="https://git.io/streak-stats">
-    <img
       height="170"
       align="center"
-      src="https://streak-stats.demolab.com?user=denishki&theme=nord&hide_border=true&border_radius=10"
+      src="https://streak-stats.demolab.com?user=denishki&theme=dark&hide_border=true&border_radius=10"
       alt="GitHub Streak"
     />
-  </a>
 </div>
+
+
 
