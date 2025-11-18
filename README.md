@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Denis Chuvakov</h1>
 <h3 align="center">Software developer student with a passion for the world of IT</h3>
-
+<p>Motivated software developer with hands-on experience building backend services, REST APIs, data-processing tools, and full-stack applications. Strong background in Java, TypeScript, SQL databases, and cloud services. Passionate about writing clean, reliable code and contributing to scalable systems within agile teams. Experienced working in international environments and collaborating on projects from concept to deployment.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b" target="blank">
