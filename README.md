@@ -38,8 +38,8 @@
     align="center"
   />
   <img
-    src="https://streak-stats.demolab.com?user=denishki&theme=dark&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=denishki&show_icons=true&theme=dark&hide_border=true&border_radius=10"
+    alt="GitHub Stats"
     height="170"
     align="center"
   />
