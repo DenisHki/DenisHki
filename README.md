@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Denis Chuvakov</h1>
-<h3 align="center">Software developer student with a passion for the world of IT</h3>
+<h3 align="center">Software developer with a passion for the world of IT</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b" target="blank">
