@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Denis Chuvakov 👋</h1>
-<h3 align="center">Full-Stack Web Developer | React, TypeScript, Node.js, PostgreSQL</h3>
+<h3 align="center">Full Stack Developer | React, TypeScript, Node.js, PostgreSQL</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
