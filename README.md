@@ -5,7 +5,7 @@
 
 I hold a **Bachelor's in Business Information Technology from Haaga-Helia University of Applied Sciences**, and I'm a **Master's student in Digital Systems and Service Development at LUT University** in Lahti.
 
-I like building things end-to-end — from a freelance client project to full-stack team projects.
+I like building things end-to-end — from client projects to full-stack team projects.
 
 ## What I work with
 
@@ -13,6 +13,7 @@ I like building things end-to-end — from a freelance client project to full-st
 - **Backend:** Node.js, Java/Spring Boot, REST APIs
 - **Data:** MongoDB, MySQL, PostgreSQL, Firebase
 - **Other:** Git, Docker, CI/CD, ESLint, automated testing (JUnit)
+- **Ways of working:** Agile/Scrum (backlogs, sprints, PR-based collaboration)
 - **Currently learning:** AI-assisted development (Claude Code), AWS
 
 <h3 align="center">Connect with me:</h3>
