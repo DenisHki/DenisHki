@@ -3,7 +3,7 @@
 
 ## About me
 
-I build full-stack web applications end-to-end — frontend, backend, and everything connecting them — using React, TypeScript, Node.js, and Java/Spring Boot. I care about clean structure, readable code, and shipping things that actually work, not just run once on my machine.
+I build full-stack web applications end-to-end — frontend, backend, and everything connecting them — using React, TypeScript, Node.js, and Java/Spring Boot. I care about clean structure, readable code and shipping things that actually work.
 
 🎓 Background: BBA in Business Information Technology (Haaga-Helia UAS) → currently a Master's student in Digital Systems and Service Development (LUT University).
 
