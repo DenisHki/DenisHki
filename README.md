@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Denis Chuvakov 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-## Connect with me
-  <p align="left">
-    <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-    </a>
-  </p>
-  
 ## About me
 
 I build full-stack web applications end-to-end — frontend, backend, and everything connecting them — using React, TypeScript, Node.js, and Java/Spring Boot. I care about clean structure, readable code, and shipping things that actually work, not just run once on my machine.
