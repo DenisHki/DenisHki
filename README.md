@@ -16,8 +16,8 @@ I build full-stack web applications end-to-end — frontend, backend, and everyt
 - **Ways of working:** Agile/Scrum (backlogs, sprints, PR-based collaboration)
 - **Currently learning:** AI-assisted development (Claude Code), AWS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
 </a>
