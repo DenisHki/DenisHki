@@ -21,6 +21,4 @@ I like building things end-to-end — from client projects to full-stack team pr
     <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
     </a>
-    <a href="mailto:ds.chuvakov@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" width="40" />    </a>
   </p>
