@@ -27,5 +27,8 @@ Currently looking for my first full-time role in software development.
 - 📱 **[Hockey Manager (Mobile)](https://github.com/DenisHki/hockey-manager-expo-app)** — React Native rebuild of Hockey Manager, using Expo and Firebase
 
 ## Connect with me
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/denis-chuvakov-25bbab22b)
+<p>
+<a href="https://linkedin.com/in/denis-chuvakov-25bbab22b">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
