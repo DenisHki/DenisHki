@@ -1,40 +1,31 @@
 <h1 align="center">Hi, I'm Denis Chuvakov 👋</h1>
-<h3 align="center">Full Stack Developer | React, TypeScript, Node.js, PostgreSQL</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/denis-chuvakov-25bbab22b">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
+I recently completed a **Bachelor's in Business Information Technology at Haaga-Helia University of Applied Sciences**, and I'm about to start a **Master's in Digital Systems and Service Development at LUT University** in Lahti.
 
-<table>
-<tr>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-<td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
-<td><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
-</tr>
-<tr>
-<td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
-<td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
-<td><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a></td>
-<td><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
-<td><a href="https://azure.microsoft.com/"><img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" width="40" height="40"/></a></td>
-<td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
-</tr>
-</table>
+I like building things end-to-end — from a freelance booking-system website (also my Bachelor's thesis) to full-stack team projects and solo apps across web and mobile.
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denishki&show_icons=true&theme=dark&hide_border=true&border_radius=10&layout=compact" height="170" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denishki&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="170" />
-</p>
+Currently looking for my first full-time role in software development.
+
+## What I work with
+
+- **Frontend:** React, TypeScript, Tailwind CSS, Vite
+- **Backend:** Node.js, Java/Spring Boot, REST APIs
+- **Data:** MongoDB, MySQL, PostgreSQL, Firebase
+- **Mobile:** React Native (Expo)
+- **Other:** Git, ESLint, automated testing (JUnit)
+
+## Pinned projects
+
+- 🎧 **[Eclipse Productions](https://github.com/DenisHki/eclipse-productions)** — freelance booking-system website for a music studio; also my Bachelor's thesis
+- 🧠 **[Quizzer](https://github.com/https-github-com-DenisHki/quizzer_app)** — full-stack quiz platform for teachers and students, built with a 5-person team
+- 🏒 **[Hockey Manager (Web)](https://github.com/DenisHki/hockey-manager-spring-boot)** — Spring Boot roster management app with authentication
+- 🏋️ **[Personal Trainer Dashboard](https://github.com/DenisHki/personal-trainer-dashboard)** — React dashboard for managing training customers and sessions
+- 📇 **[Phonebook API](https://github.com/DenisHki/phonebook-api)** — REST API with Node.js, Express, and MongoDB
+- 📱 **[Hockey Manager (Mobile)](https://github.com/DenisHki/hockey-manager-expo-app)** — React Native rebuild of Hockey Manager, using Expo and Firebase
+
+## Connect with me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/denis-chuvakov-25bbab22b)
