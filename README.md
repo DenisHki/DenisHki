@@ -8,7 +8,7 @@ I build full-stack web applications end-to-end — frontend, backend, and everyt
 🎓 Background: BBA in Business Information Technology (Haaga-Helia UAS) → currently a Master's student in Digital Systems and Service Development (LUT University).
 
 <a href="https://linkedin.com/in/denis-chuvakov-25bbab22b">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
 
